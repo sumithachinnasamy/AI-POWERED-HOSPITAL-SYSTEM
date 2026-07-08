@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Smart Hospital System",
+  "description": "An intelligent hospital appointment booking and patient assistance system with AI symptom analysis, smart slot suggestions, waiting time predictions, and a natural language chat assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
